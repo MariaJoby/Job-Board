@@ -46,7 +46,7 @@ const Register = () => {
     <div>
       <Box
         component="form"
-        sx={{ p: 6, m: 3, display: 'flex', justifyContent: 'center', alignItems: 'center', backgroundColor: '#f1f4f8' }}
+        sx={{ p: 6, m: 3, display: 'flex', justifyContent: 'center', alignItems: 'center', backgroundImage: `url('/Images/bg.png')`, }}
       >
         <Paper elevation={8} sx={{ borderRadius: 5, width: '50%', p: 4 }}>
           <Typography variant="h4" gutterBottom sx={{ fontWeight: 600, color: '#1976d2', mb: 3 }}>

@@ -39,7 +39,7 @@ export const HomePage = () => {
               <TextField {...params} label="Search by Job Title" variant="outlined" fullWidth />)}/>
       </Box>
 
-    <Box sx={{ padding: 4, backgroundColor: '#f7f9fc', minHeight: '100vh' }}>
+    <Box sx={{ padding: 4,backgroundImage: `url('/Images/bg2.png')`, minHeight: '100vh' }}>
       <Typography variant="h4" gutterBottom align="center" sx={{ fontWeight: 'bold', mb: 4 }}>
         🚀 Available Job Listings
       </Typography>

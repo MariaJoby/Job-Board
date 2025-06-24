@@ -10,7 +10,6 @@ import Home from './components/pages/Home'
 import Register from './components/pages/Register'
 import Login from './components/pages/Login'
 import Welcome from './components/Welcome'
-import Aboutus from './components/pages/About'
 import About from './components/pages/About'
 
 
